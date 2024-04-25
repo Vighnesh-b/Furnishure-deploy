@@ -18,7 +18,7 @@ import axios from 'axios';
 
 import {Toaster} from 'react-hot-toast';
 
-import { UserContextProvider } from './Context/userContext';
+import { UserContextProvider } from './Context/userContext.jsx';
 import Dashboard from './DashBoard/Dashboard';
 import Cart from './cart/cart';
 

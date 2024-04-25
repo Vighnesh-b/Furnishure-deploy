@@ -6,7 +6,7 @@ import '../styles/fonts.css';
 import { Link } from "react-router-dom";
 import Logout from '../LoginPage/Logout.jsx'
 import SearchBar from '../SearchBar/SearchBar.jsx';
-import { UserContext } from "../Context/userContext"
+import { UserContext } from "../Context/userContext.jsx"
 import { useContext } from "react"
 
 function Header() {
